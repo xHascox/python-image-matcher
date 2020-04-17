@@ -1,0 +1,8 @@
+Use a VM if the Host PC doesnt work
+
+install python, 
+pip install pyinstaller, pillow
+
+pyinstaller --onefile --noconsole client_multi.py
+
+--> dist
